@@ -1,11 +1,11 @@
 # EtchPad by Etchy
 
 ## Disclaimer
---- 
+
 The stories, people, brands and products in this software development project are fictitious and any resemblance to real life occurrence is by pure coincidence. The developer of this project, as part of an academic portfolio, referred to and used various open source materials available online to create an interactive brochure website, all of which are credited at the end.
 
 ## Project Overview
---- 
+
 This is a front-end web development project to showcase a premium stationery product called EtchPad by the limited company Etchy.
 
 Unlike top competitors which sell generalised stationery products, Etchy dedicates effort to serve a market niche that appreciates premium and long-lasting products. Its sole product called EtchPad is an archive-grade / museum-grade notebook for drawing and note-taking.
@@ -24,7 +24,6 @@ As an emerging online retailer, Etchy wants to establish an online presence befo
 * Minimalist aesthetic.
 
 ## The User Experience
---- 
 
 ### User Stories
 As a user, I want to...
@@ -77,7 +76,6 @@ Digital Sketcher
 * ...
 
 ## Project Development Stages
---- 
 
 As a Prince2 Practitioner, the developer applied [Prince2](https://www.axelos.com/certifications/propath/prince2-project-management) project management methodology to complete the endeavour.
 
@@ -90,7 +88,7 @@ Note that each stage is repeated three times: development for mobile, tablets an
 Stage X is commenced once all previous stages have been completed or suspended.
 Each stage involves testing.
 
-### [ Stage  ]
+### Stage 1
 
 Pages
 * Home Page
@@ -103,7 +101,7 @@ Components
 * Digital Sketch for Desktop Only
 * Favicon
 
-### [ Stage 2 ]
+### Stage 2
 
 Pages
 * 404 Page
@@ -112,7 +110,7 @@ Pages
 Components
 * Contact Form
 
-### [ Stage 3 ]
+### Stage 3
 
 Pages
 * Blog
@@ -134,7 +132,6 @@ Components
 * Accessibility
 
 ## Features
---- 
 
 ### Implemented
 ...
@@ -170,14 +167,12 @@ Bugs
 * Backlog
 
 ## Deployment
----
 
 ...
 ...
 ...
 
 ## Credits
----
 
 Maintaining competence requires continuous learning from and reflection upon the work of others. It is important to give credit and acknowledgement not only to recognise time and effort expended but also to illustrate the rationale behind the methods applied and direct observers to the origins thereof.
 
