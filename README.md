@@ -151,7 +151,7 @@ Components
 
 ### Testing
 
-Validator Testing - each to be updated with post-validated link
+Validator Testing - each to be updated with post-validation link
 * [W3C Validator](https://validator.w3.org/nu/)
 * [CSS Validator](https://jigsaw.w3.org/css-validator/)
 * [Form Validator](https://formdump.codeinstitute.net/)
@@ -208,6 +208,7 @@ Competitor Research
 * ...
 
 Content Tools / Sources
+
 _See technologies section for development environment and content generators / sources._
 
 ### Tutorials
