@@ -1,108 +1,262 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# EtchPad by Etchy
 
-Welcome USER_NAME,
+## Disclaimer
+--- 
+The stories, people, brands and products in this software development project are fictitious and any resemblance to real life occurrence is by pure coincidence. The developer of this project, as part of an academic portfolio, referred to and used various open source materials available online to create an interactive brochure website, all of which are credited at the end.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Project Overview
+--- 
+This is a front-end web development project to showcase a premium stationery product called EtchPad by the limited company Etchy.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+Unlike top competitors which sell generalised stationery products, Etchy dedicates effort to serve a market niche that appreciates premium and long-lasting products. Its sole product called EtchPad is an archive-grade / museum-grade notebook for drawing and note-taking.
 
-## Gitpod Reminders
+As an emerging online retailer, Etchy wants to establish an online presence before actively trading. Therefore, this project is endeavoured with a mobile-first approach with the aim of building an email list, increasing brand and product awareness and kickstarting web traffic flow.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+### Company Goals
+* Develop the website as part of a brand awareness campaign in preparation for the product launch.
+* Create an email list for newsletter, promotions and notification for product launch.
+* Establish an online presence before trading.
 
-`python3 -m http.server`
+### Target Audience
+* New or accustomed to using internet websites.
+* Demographics of all ages that value high quality stationery for recreational, professional and/or academic purposes.
+* Niche target of people that are quality conscious, collectors and gift buyers.
+* Minimalist aesthetic.
 
-A blue button should appear to click: _Make Public_,
+## The User Experience
+--- 
 
-Another blue button should appear to click: _Open Browser_.
+### User Stories
+As a user, I want to...
+* Feel that the website is secure for use without worry of privacy infringement or data loss.
+* Easily navigate and interact with features for an enjoyable experience.
+* See how the product works, its quality, and when it’s going to be available to help influence reason for purchasing.
+* Feel that the business is credible to ensure a positive purchasing experience.
+* Be able to contact the business for inquiries and sales support.
+* Know the story behind the product to further influence buying decisions.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### Wireframes
+...
+...
+...
 
-A blue button should appear to click: _Make Public_,
+### Design
+Device Dimensions
+* ... 
+* ...
+* ...
 
-Another blue button should appear to click: _Open Browser_.
+Color Pallette
+* ... 
+* ...
+* ...
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+Typography
+* ... 
+* ...
+* ...
 
-To log into the Heroku toolbelt CLI:
+Logo
+* ... 
+* ...
+* ...
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+Content
+* ... 
+* ...
+* ...
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+Navigation
+* ... 
+* ...
+* ...
 
-------
+Digital Sketcher
+* ... 
+* ...
+* ...
 
-## Release History
+## Project Development Stages
+--- 
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+As a Prince2 Practitioner, the developer applied [Prince2](https://www.axelos.com/certifications/propath/prince2-project-management) project management methodology to complete the endeavour.
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+Project stages are outlined below to organise the development of features in para-sequential phases. 
+This means that each phase produces a working set of deliverables with which the project can prematurely and beneficially conclude. 
+However, the project can build upon completed features, and progress to the next stage if time and available budgets allow.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+Each stage produces a working deliverable and is necessary for the next stage to begin.
+Note that each stage is repeated three times: development for mobile, tablets and computers. 
+Stage X is commenced once all previous stages have been completed or suspended.
+Each stage involves testing.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+### [ Stage  ]
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+Pages
+* Home Page
+* Product Page
+* Meet The Team
+* Privacy Policy Page
+Components
+* Header with Navbar
+* Footer - Basic
+* Digital Sketch for Desktop Only
+* Favicon
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+### [ Stage 2 ]
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+Pages
+* 404 Page
+* Contact Us
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+Components
+* Contact Form
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+### [ Stage 3 ]
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+Pages
+* Blog
+* Product History
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+Components
+* Post List
+* Post Page
+* Timeline Grid
+* Loading Screen
+* Optimised Photos
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+### Stage X
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+Components
+* Sitemap
+* Navbar - Content
+* Footer - Content
+* Accessibility
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+## Features
+--- 
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+### Implemented
+...
+...
+...
 
-------
+### Current Focus
 
-## FAQ about the uptime script
+Pages
+* Home
 
-**Why have you added this script?**
+Components
+* Header
+* Navbar
+* Footer
+* Favicon
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+### Testing
 
-**How will this affect me?**
+Validator Testing - each to be updated with post-validated link
+* [W3C Validator](https://validator.w3.org/nu/)
+* [CSS Validator](https://jigsaw.w3.org/css-validator/)
+* [Form Validator](https://formdump.codeinstitute.net/)
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+Additional Testing
+* Device / Screen Size
+* User Stories
+* Process
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+Bugs
+* Fixed
+* Backlog
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
+## Deployment
 ---
 
-Happy coding!
+...
+...
+...
+
+## Credits
+---
+
+Maintaining competence requires continuous learning from and reflection upon the work of others. It is important to give credit and acknowledgement not only to recognise time and effort expended but also to illustrate the rationale behind the methods applied and direct observers to the origins thereof.
+
+Tutorials, resources used are as follows:
+
+### Media
+
+Images
+* ...
+* ...
+* ...
+
+Videos
+* ...
+* ...
+* ...
+
+### Content
+
+Copy
+* ...
+* ...
+* ...
+
+Design
+* ...
+* ...
+* ...
+
+Competitor Research
+* ...
+* ...
+* ...
+
+Content Tools / Sources
+_See technologies section for development environment and content generators / sources._
+
+### Tutorials
+Youtube
+* ...
+* ...
+* ...
+
+Articles
+* ...
+* ...
+* ...
+
+### Technologies
+
+Development Environment
+* [GitPod](https://www.gitpod.io/)
+* [Figma](https://www.figma.com/)
+
+Testing
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse)
+* [Chrome Devtools](https://developer.chrome.com/docs/devtools/)
+* [W3C Validator](https://validator.w3.org/nu/)
+* [CSS Validator](https://jigsaw.w3.org/css-validator/)
+* [Code Institute - Form Dump](https://formdump.codeinstitute.net/)
+
+Content Generators / Sources
+* ...
+* ...
+* ...
+
+Frameworks / Libraries
+* ...
+* ...
+* ...
+
+Languages
+* HTML5
+* CSS
+* Javascript
+
+### Further Acknowledgements
+The vibrant [Slack](https://slack.com/) community, cohort, tutors and my mentor Akshat Garg at [Code Institute](https://codeinstitute.net/).
+
+[Code Institute](https://codeinstitute.net/), [FreeCodeCamp](https://www.freecodecamp.org/), [TheOdinProject](https://www.theodinproject.com/), and [W3Schools](https://www.w3schools.com/) for providing me with fundamental skills for software development.
+
+[Prince2](https://www.axelos.com/certifications/propath/prince2-project-management) for the project management methodology.
