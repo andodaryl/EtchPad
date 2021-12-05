@@ -168,9 +168,15 @@ Bugs
 
 ## Deployment
 
-...
-...
-...
+With the help of this [tutorial](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f), the website was deployed to GitHub pages using the following steps:
+1. Navigate to the target Github repo.
+2. Select the “Settings” tab.
+3. Select the “Pages” button on the menu to the left.
+4. Select the "Main" branch as the source.
+5. Select the "Save" button.
+6. The website will be deployed automatically and a link to the live website will be displayed.
+
+The live page is available [here](https://andodaryl.github.io/EtchPad/).
 
 ## Credits
 
