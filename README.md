@@ -1,4 +1,4 @@
-# EtchPad by Etchy
+# EtchPad by Etch
 
 ## Disclaimer
 
@@ -6,11 +6,11 @@ The stories, people, brands and products in this software development project ar
 
 ## Project Overview
 
-This is a front-end web development project to showcase a premium stationery product called EtchPad by the limited company Etchy.
+This is a front-end web development project to showcase a premium stationery product called EtchPad by the limited company Etch.
 
-Unlike top competitors which sell generalised stationery products, Etchy dedicates effort to serve a market niche that appreciates premium and long-lasting products. Its sole product called EtchPad is an archive-grade / museum-grade notebook for drawing and note-taking.
+Unlike top competitors which sell generalised stationery products, Etch dedicates effort to serve a market niche that appreciates premium and long-lasting products. Its sole product called EtchPad is an archive-grade / museum-grade notebook for drawing and note-taking.
 
-As an emerging online retailer, Etchy wants to establish an online presence before actively trading. Therefore, this project is endeavoured with a mobile-first approach with the aim of building an email list, increasing brand and product awareness and kickstarting web traffic flow.
+As an emerging online retailer, Etch wants to establish an online presence before actively trading. Therefore, this project is endeavoured with a mobile-first approach with the aim of building an email list, increasing brand and product awareness and kickstarting web traffic flow.
 
 ### Company Goals
 * Develop the website as part of a brand awareness campaign in preparation for the product launch.
@@ -84,7 +84,7 @@ This means that each phase produces a working set of deliverables with which the
 However, the project can build upon completed features, and progress to the next stage if time and available budgets allow.
 
 Each stage produces a working deliverable and is necessary for the next stage to begin.
-Note that each stage is repeated three times: development for mobile, tablets and computers. 
+Note that each stage is repeated three times: development for mobile, tablets and desktops. 
 Stage X is commenced once all previous stages have been completed or suspended.
 Each stage involves testing.
 
