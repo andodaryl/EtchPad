@@ -2,9 +2,17 @@ body {
   background-color: #F0EDE8;
 }
 
-header {
+header, 
+footer {
   background-color: #D0B7AA;
+}
+
+header {
   box-shadow: 0 2px 2px -2px gray;
+}
+
+footer {
+  box-shadow: 0 -1px 4px -2px gray;
 }
 
 .logo {
