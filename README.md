@@ -136,9 +136,15 @@ Components
 ## Features
 
 ### Implemented
-...
-...
-...
+
+Pages
+* Privacy Policy
+
+Components
+* Header
+* Navbar
+* Footer
+* Favicons
 
 ### Current Focus
 
@@ -146,10 +152,8 @@ Pages
 * Home
 
 Components
-* Header
-* Navbar
-* Footer
-* Favicon
+* Homepage Hero
+* Digital Sketcher
 
 ### Testing
 
