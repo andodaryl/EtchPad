@@ -95,6 +95,7 @@ Pages
 * Product Page
 * Meet The Team
 * Privacy Policy Page
+
 Components
 * Header with Navbar
 * Footer - Basic
@@ -130,6 +131,7 @@ Components
 * Navbar - Content
 * Footer - Content
 * Accessibility
+* Scroll to top
 
 ## Features
 
