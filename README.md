@@ -171,6 +171,7 @@ Additional Testing
 Bugs
 * Fixed
 * Backlog
+  * Missing favicons
 
 ## Deployment
 
