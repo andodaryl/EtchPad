@@ -246,6 +246,7 @@ Testing
 * [W3C Validator](https://validator.w3.org/nu/)
 * [CSS Validator](https://jigsaw.w3.org/css-validator/)
 * [Code Institute - Form Dump](https://formdump.codeinstitute.net/)
+* [Favicon Checker](https://realfavicongenerator.net/favicon_checker)
 
 Content Generators / Sources
 * ...
