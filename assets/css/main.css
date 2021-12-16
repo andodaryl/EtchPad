@@ -19,3 +19,14 @@ footer {
   height: auto;
   width: 8rem;
 }
+
+.card {
+  background-color: #F0EDE8;
+  border: none;
+}
+
+.hero {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
