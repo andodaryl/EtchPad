@@ -1,3 +1,4 @@
+/* Main Elements */
 body {
   background-color: #F0EDE8;
 } 
@@ -16,20 +17,16 @@ footer {
   box-shadow: 0 -1px 4px -2px gray;
 }
 
-.logo {
-  height: auto;
-  width: 8rem;
-}
-
+/* Containers */
 .card {
   background-color: #F0EDE8;
   border: none;
 }
 
-.hero {
-  text-align: center;
-  margin: 0;
-  padding: 0;
+/* Logo */
+.logo {
+  height: auto;
+  width: 8rem;
 }
 
 /* Selection Highlighting */
@@ -38,7 +35,7 @@ footer {
   background-color: burlywood;
 }
 
-/*Links*/
+/* Links */
 header [aria-current="page"] {
   position: relative;
   color: #D0B7AA !important;
