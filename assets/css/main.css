@@ -29,6 +29,11 @@ footer {
   width: 8rem;
 }
 
+/* Custom Colors */
+.text-custom-tertiary {
+  color: #F0EDE8 !important;
+}
+
 /* Selection Highlighting */
 ::selection {
   color: #24201E !important;
