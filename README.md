@@ -133,12 +133,15 @@ Components
 
 Pages
 * Privacy Policy
+* Home
 
 Components
 * Header
 * Navbar
 * Footer
 * Favicons
+* Carousel
+* Image Cards
 
 ### Changes
 
@@ -149,10 +152,10 @@ Components
 ### Current Focus
 
 Pages
-* Home
+* About Us
 
 Components
-* Feature list
+* Founder Biographies
 
 ### Testing
 
