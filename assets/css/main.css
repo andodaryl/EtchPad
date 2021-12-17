@@ -11,6 +11,7 @@ header {
   box-shadow: 0 2px 2px -2px gray;
 }
 
+
 footer {
   box-shadow: 0 -1px 4px -2px gray;
 }
@@ -29,4 +30,31 @@ footer {
   text-align: center;
   margin: 0;
   padding: 0;
+}
+
+/*Links*/
+header [aria-current="page"] {
+  position: relative;
+  color: #D0B7AA !important;
+  background-color:#24201E;
+}
+
+footer [aria-current="page"] {
+  text-decoration: underline;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+/* Media Queries */
+
+/* Small Devices */
+@media only screen and (max-width: 768px) {
+  /*Links */
+  header [aria-current="page"] {
+    display: inline-block;
+    border-left: 0.4rem solid #24201E;
+    border-right: 0.4rem solid #24201E;
+    }
 }
