@@ -32,6 +32,12 @@ footer {
   padding: 0;
 }
 
+/* Selection Highlighting */
+::selection {
+  color: #24201E !important;
+  background-color: burlywood;
+}
+
 /*Links*/
 header [aria-current="page"] {
   position: relative;
