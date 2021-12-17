@@ -70,11 +70,6 @@ Navigation
 * ...
 * ...
 
-Digital Sketcher
-* ... 
-* ...
-* ...
-
 ## Project Development Stages
 
 As a Prince2 Practitioner, the developer applied [Prince2](https://www.axelos.com/certifications/propath/prince2-project-management) project management methodology to complete the endeavour.
@@ -99,7 +94,6 @@ Pages
 Components
 * Header with Navbar
 * Footer - Basic
-* Digital Sketch for Desktop Only
 * Favicon
 
 ### Stage 2
@@ -146,14 +140,19 @@ Components
 * Footer
 * Favicons
 
+### Changes
+
+1. Development of the digital sketcher is beyond the scope of this project and will not be implemented.
+2. Product page will be merged with Home page for ease of product visibility.
+3. Meet the team page will now incorporate a biography-style layout to showcase a more personal side of the company story.
+
 ### Current Focus
 
 Pages
 * Home
 
 Components
-* Homepage Hero
-* Digital Sketcher
+* Feature list
 
 ### Testing
 
