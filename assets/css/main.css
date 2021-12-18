@@ -54,6 +54,19 @@ footer {
   background-color: #F0EDE8 !important;
 }
 
+/* border */
+.border-custom-primary {
+  border-color: #24201E !important;
+}
+
+.border-custom-secondary {
+  border-color: #D0B7AA !important;
+}
+
+.border-custom-tertiary {
+  border-color: #F0EDE8 !important;
+}
+
 /* Selection Highlighting */
 ::selection {
   color: #24201E !important;
