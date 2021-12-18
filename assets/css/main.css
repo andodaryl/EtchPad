@@ -30,6 +30,14 @@ footer {
 }
 
 /* Custom Colors */
+.text-custom-primary {
+  color: #24201E !important;
+}
+
+.text-custom-secondary {
+  color: #D0B7AA !important;
+}
+
 .text-custom-tertiary {
   color: #F0EDE8 !important;
 }
