@@ -179,7 +179,7 @@ Bugs
 ## Deployment
 
 With the help of this [tutorial](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f), the website was deployed to GitHub pages using the following steps:
-1. Navigate to the target Github repo.
+1. After logging in, navigate to the target Github repo.
 2. Select the “Settings” tab.
 3. Select the “Pages” button on the menu to the left.
 4. Select the "Main" branch as the source.
@@ -187,6 +187,30 @@ With the help of this [tutorial](https://dev.to/yuribenjamin/how-to-deploy-react
 6. The website will be deployed automatically and a link to the live website will be displayed.
 
 The live page is available [here](https://andodaryl.github.io/EtchPad/).
+
+## Forking Github Repos
+
+According to [official Github documentation](https://docs.github.com/en/get-started/quickstart/fork-a-repo), this repo can be forked using the following steps:
+1. After logging in, navigate to the target Github repo.
+2. Select the "Fork" button located in top-right area of the page.
+3. Select target location for the forked repo.
+
+## Cloning Forked Repo via HTTPS
+
+Additionally, you can download a local copy of the forked repo using the folowing steps:
+1. After logging in to Github, navigate to the desired forked repo.
+2. Select the "Code" button.
+3. Copy the URL link below "Clone with HTTPS".
+4. In a terminal with "GIT" installed, navigate to your target directory.
+5. Using the `git clone` command, paste in the URL and press enter:
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPO 
+\> Cloning into `YOUR-REPO`...
+\> remote: Counting objects: 10, done.
+\> remote: Compressing objects: 100% (8/8), done.
+\> remove: Total 10 (delta 1), reused 10 (delta 1)
+\> Unpacking objects: 100% (10/10), done.
+```
 
 ## Credits
 
