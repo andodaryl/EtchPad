@@ -30,6 +30,7 @@ footer {
 }
 
 /* Custom Colors */
+/* text */
 .text-custom-primary {
   color: #24201E !important;
 }
@@ -42,6 +43,7 @@ footer {
   color: #F0EDE8 !important;
 }
 
+/* background */
 .bg-custom-primary {
   background-color: #24201E !important;
 }
