@@ -87,7 +87,7 @@ Each stage involves testing.
 
 Pages
 * Home Page
-* Product Page
+* ~~Product Page~~
 * Meet The Team
 * Privacy Policy Page
 
@@ -100,10 +100,10 @@ Components
 
 Pages
 * 404 Page
-* Contact Us
+* ~~Contact Us~~ Pre-Order
 
 Components
-* Contact Form
+* ~~Contact Form~~ Pre-Order Form
 
 ### Stage 3
 
@@ -146,8 +146,9 @@ Components
 ### Changes
 
 1. Development of the digital sketcher is beyond the scope of this project and will not be implemented.
-2. Product page will be merged with Home page for ease of product visibility.
+2. Original product page will be merged with Home page for ease of product visibility.
 3. Meet the team page will now incorporate a biography-style layout to showcase a more personal side of the company story.
+4. Contact page will now be called the Pre-Order page to better match the project purpose.
 
 ### Current Focus
 
