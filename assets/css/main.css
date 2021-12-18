@@ -69,6 +69,13 @@ footer {
   border-color: #F0EDE8 !important;
 }
 
+/* Custom Buttons */
+/* follow */
+.btn-follow i {
+  position: relative; 
+  bottom: 0.1rem;
+}
+
 /* Selection Highlighting */
 ::selection {
   color: #24201E !important;
