@@ -42,6 +42,18 @@ footer {
   color: #F0EDE8 !important;
 }
 
+.bg-custom-primary {
+  background-color: #24201E !important;
+}
+
+.bg-custom-secondary {
+  background-color: #D0B7AA !important;
+}
+
+.bg-custom-tertiary {
+  background-color: #F0EDE8 !important;
+}
+
 /* Selection Highlighting */
 ::selection {
   color: #24201E !important;
