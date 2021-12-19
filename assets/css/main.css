@@ -18,19 +18,34 @@ footer {
 }
 
 /* Custom Containers */
+/* general */
 .card {
   background-color: #F0EDE8;
   border: none;
 }
 
+/* about */
 .card-about {
-  max-width: 10rem;
+  width: 75%;
+  min-width: 18rem;
+  max-width: 45rem;
+  margin: 0 auto;
 }
 
-/* Logo */
+.card-about img {
+  border-radius: 50%;
+} 
+
+/* Micro Elements */
+/* logo */
 .logo {
   height: auto;
   width: 8rem;
+}
+
+/* blockqoute */
+blockquote {
+  font-style: italic;
 }
 
 /* Custom Colors */

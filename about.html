@@ -28,7 +28,7 @@
   </head>
 <body>
   <!-- Header & Navbar -->
-  <header>
+  <header id="main-header">
     <div class="container">
       <nav class="navbar navbar-expand-md navbar-light">
         <a href="./index.html" class="navbar-brand">
@@ -58,11 +58,22 @@
   </header>
   <!-- Team information -->
   <main class="container">
-    <h1 class="pt-4 text-center">Meet The Co-Founders</h1>
+    <h1 class="ms-3 mt-4">About Us</h1>
+    <!-- Company Mission -->
+    <section class="mb-4">
+      <div class="card">
+        <div class="card-body">
+          <h2 class="card-title">Meet The Co-Founders</h2>
+          <p class="card-text">
+            Sam and Klaudia endeavoured to create a long-lasting product to help capture the human ingenuity. In collaboration with leading researchers and manufacturers throughout the nation, Etch is excited to announce the upcoming launch of EtchPad, the world's first museum-grade notebook made in Ireland!
+          </p>
+        </div>
+      </div>
+    </section>
     <!-- Founder Biography -->
     <section>
             <!-- Executive 1 -->
-            <div class="card" style="width: 18rem;">
+            <div class="card card-about mb-4">
               <!-- See README for image source -->
               <picture>
                 <source 
@@ -75,6 +86,9 @@
               <div class="card-body">
                 <h5 class="card-title">Klaudia Auer, CEO</h5>
                 <p class="card-text">A decisive leader that values learning from every member of the team to overcome any business adversary. Klaudia enjoys discussing...</p>
+                <blockquote class="blockquote">
+                  <p>"Sam and I found a real need for long lasting mediums to..."</p>
+                </blockquote>
                   <a class="btn btn-primary btn-follow" href="https://twitter.com" target="_blank" rel="noopener noreferrer">
                       <i class="bi bi-twitter pe-1"></i>
                       Follow on Twitter
@@ -84,7 +98,7 @@
               </div>
             </div>
             <!-- Executive 2 -->
-            <div class="card" style="width: 18rem;">
+            <div class="card card-about mb-4">
               <!-- See README for image source -->
               <picture>
                 <source 
@@ -96,7 +110,7 @@
               </picture>
               <div class="card-body">
                 <h5 class="card-title">Sam Lotte, CTO</h5>
-                <p class="card-text">A decisive leader that values learning from every member of the team to overcome any business adversary. John enjoys discussing...</p>
+                <p class="card-text">A decisive leader that values learning from every member of the team to overcome any business adversary. Sam enjoys discussing...</p>
                   <a class="btn btn-primary btn-follow" href="https://twitter.com" target="_blank" rel="noopener noreferrer">
                       <i class="bi bi-twitter pe-1"></i>
                       Follow on Twitter
@@ -104,22 +118,11 @@
                 </div>
             </div>
     </section>
-    <!-- Company History -->
-    <section>
-      <p>
-        Adam and Klaudia founded Etch after graduating from University of Commerce Dublin.
-      </p>
-      <p>
-        The co-founders saw a real need for long lasting mediums to capture human ingenuity with elegance and ease.
-      </p>
-      <p>
-        The team endeavoured to create a product to alleviate the frustrations of using complex software applications or flimsy paper.
-      </p>
-      <p> 
-        After three years of collaboration with leading researchers and manufacturers throughout Ireland, Etch is proud to announce the upcoming launch of EtchPad!
-      </p>
-    </section>
   </main>
+  <!-- Scroll To Top -->
+  <section class="container pt-1 pb-5 d-flex justify-content-evenly">
+    <button type="button" class="btn btn-dark"><a class="text-custom-tertiary text-decoration-none" href="#main-header">Scroll To Top</a></button>
+  </section>
   <!-- Footer -->
   <footer class="p-3">
     <div class="container">
