@@ -17,7 +17,7 @@ footer {
   box-shadow: 0 -1px 4px -2px gray;
 }
 
-/* Containers */
+/* Custom Containers */
 .card {
   background-color: #F0EDE8;
   border: none;
@@ -32,41 +32,41 @@ footer {
 /* Custom Colors */
 /* text */
 .text-custom-primary {
-  color: #24201E !important;
+  color: #24201E;
 }
 
 .text-custom-secondary {
-  color: #D0B7AA !important;
+  color: #D0B7AA;
 }
 
 .text-custom-tertiary {
-  color: #F0EDE8 !important;
+  color: #F0EDE8;
 }
 
 /* background */
 .bg-custom-primary {
-  background-color: #24201E !important;
+  background-color: #24201E;
 }
 
 .bg-custom-secondary {
-  background-color: #D0B7AA !important;
+  background-color: #D0B7AA;
 }
 
 .bg-custom-tertiary {
-  background-color: #F0EDE8 !important;
+  background-color: #F0EDE8;
 }
 
 /* border */
 .border-custom-primary {
-  border-color: #24201E !important;
+  border-color: #24201E;
 }
 
 .border-custom-secondary {
-  border-color: #D0B7AA !important;
+  border-color: #D0B7AA;
 }
 
 .border-custom-tertiary {
-  border-color: #F0EDE8 !important;
+  border-color: #F0EDE8;
 }
 
 /* Custom Buttons */
@@ -78,14 +78,14 @@ footer {
 
 /* Selection Highlighting */
 ::selection {
-  color: #24201E !important;
+  color: #24201E;
   background-color: burlywood;
 }
 
 /* Links */
 header [aria-current="page"] {
   position: relative;
-  color: #D0B7AA !important;
+  color: #D0B7AA;
   background-color:#24201E;
 }
 
