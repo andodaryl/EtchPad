@@ -23,6 +23,10 @@ footer {
   border: none;
 }
 
+.card-about {
+  max-width: 10rem;
+}
+
 /* Logo */
 .logo {
   height: auto;
@@ -85,7 +89,7 @@ footer {
 /* Links */
 header [aria-current="page"] {
   position: relative;
-  color: #D0B7AA;
+  color: #D0B7AA !important;
   background-color:#24201E;
 }
 
