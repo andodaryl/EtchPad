@@ -26,7 +26,7 @@ As an emerging online retailer, Etch wants to establish an online presence befor
 ## The User Experience
 
 ### User Stories
-As a user, I want to...
+As a user of this website, I want to...
 * Feel that the website is secure for use without worry of privacy infringement or data loss.
 * Easily navigate and interact with features for an enjoyable experience.
 * See how the product works, its quality, and when it’s going to be available to help influence reason for purchasing.
