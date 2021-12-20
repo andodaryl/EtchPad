@@ -87,7 +87,7 @@ Each stage involves testing.
 
 Pages
 * Home Page
-* ~~Product Page~~
+* ~~Product Page~~ [ REMOVED ]
 * Meet The Team
 * Privacy Policy Page
 
