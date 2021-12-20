@@ -116,7 +116,6 @@ Components
 * Post Page
 * Timeline Grid
 * Loading Screen
-* Optimised Photos
 
 ### Stage X
 
@@ -126,6 +125,7 @@ Components
 * Footer - Content
 * Accessibility
 * Scroll to top
+* Optimised Photos
 
 ## Features
 
