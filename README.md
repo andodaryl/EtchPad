@@ -212,8 +212,10 @@ Bugs
     * Recreated favicons from Favicon Generator with appropriate links.
 * Backlog
   * Hero page carousel displaced by a few pixels when traversing image gallery
-    *[Normal Screenshot](./assets/media/bugs/favicons/carousel-normal.png)
-    *[Error Screenshot](./assets/media/bugs/favicons/carousel-error.png)
+    * [Normal Screenshot](./assets/media/bugs/favicons/carousel-normal.png)
+    * [Error Screenshot](./assets/media/bugs/favicons/carousel-error.png)
+    * Problem is because of inconsistent image aspect ratios.
+    * To be fixed during image optimisation. 
 
 ## Deployment
 
