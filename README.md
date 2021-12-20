@@ -206,9 +206,13 @@ Additional Testing
 
 Bugs
 * Fixed
+  * Missing favicons according to Favicon Checker
+    * [Error Screenshot](./assets/media/bugs/favicons/favicon-error.png)
+    * [Fixed Screenshot](./assets/media/bugs/favicons/favicon-error-fixed.png)
 * Backlog
-  * Missing favicons
   * Hero page carousel displaced by a few pixels when traversing image gallery
+    *[Normal Screenshot](./assets/media/bugs/favicons/carousel-normal.png)
+    *[Error Screenshot](./assets/media/bugs/favicons/carousel-error.png)
 
 ## Deployment
 
