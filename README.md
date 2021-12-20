@@ -57,7 +57,7 @@ Color Pallette
   * Primary #24201E
   * Secondary #D0B7AA
   * Tertiary #F0EDE8
-* The text color against the background or tertiary color passed the contrast test for legibility using a calculator by [WebAim](https://webaim.org/resources/contrastchecker/).
+* The text color (Primary) against the background (Secondary) and tertiary colors passed the contrast test for legibility using a calculator by [WebAim](https://webaim.org/resources/contrastchecker/).
 * [Paletton](https://paletton.com/) was used to create variations of the primary colors above for stylistic purposes.
 
 Typography
