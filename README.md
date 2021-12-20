@@ -197,6 +197,7 @@ Validator Testing - each to be updated with post-validation link
 * [CSS Validator](https://jigsaw.w3.org/css-validator/)
 * [Form Validator](https://formdump.codeinstitute.net/)
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse)
+* [Favicon Checker](https://realfavicongenerator.net/favicon_checker)
 
 Additional Testing
 * Device / Screen Size
