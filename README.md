@@ -320,9 +320,9 @@ Frameworks / Libraries
 * ...
 
 Languages
-* HTML5
-* CSS
-* Javascript
+* [HTML5](https://www.w3schools.com/html/default.asp)
+* [CSS](https://www.w3schools.com/css/default.asp)
+* [Javascript](https://www.w3schools.com/js/default.asp)
 
 ### Further Acknowledgements
 The vibrant [Slack](https://slack.com/) community, cohort, tutors and my mentor Akshat Garg at [Code Institute](https://codeinstitute.net/).
