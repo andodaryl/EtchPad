@@ -175,6 +175,7 @@ Bugs
 * Fixed
 * Backlog
   * Missing favicons
+  * Hero page carousel displaced by a few pixels when traversing image gallery
 
 ## Deployment
 
