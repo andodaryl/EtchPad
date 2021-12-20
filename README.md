@@ -209,6 +209,7 @@ Bugs
   * Missing favicons according to Favicon Checker
     * [Error Screenshot](./assets/media/bugs/favicons/favicon-error.png)
     * [Fixed Screenshot](./assets/media/bugs/favicons/favicon-error-fixed.png)
+    * Recreated favicons from Favicon Generator with appropriate links.
 * Backlog
   * Hero page carousel displaced by a few pixels when traversing image gallery
     *[Normal Screenshot](./assets/media/bugs/favicons/carousel-normal.png)
