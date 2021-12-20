@@ -114,12 +114,12 @@ Note that each stage is repeated three times: development for mobile, tablets an
 Stage X is commenced once all previous stages have been completed or suspended.
 Each stage involves testing.
 
-### Stage 1
+### Stage 1 [ Done ]
 
 Pages
 * Home Page
 * ~~Product Page~~ [ REMOVED ]
-* Meet The Team
+* ~~~Meet The Team~~~ About Us
 * Privacy Policy Page
 
 Components
@@ -127,7 +127,7 @@ Components
 * Footer - Basic
 * Favicon
 
-### Stage 2
+### Stage 2 [ Current ]
 
 Pages
 * 404 Page
@@ -165,6 +165,7 @@ Components
 Pages
 * Privacy Policy
 * Home
+* About Us
 
 Components
 * Header
@@ -173,6 +174,7 @@ Components
 * Favicons
 * Carousel
 * Image Cards
+* Founder Biographies
 
 ### Changes
 
@@ -185,10 +187,10 @@ Components
 ### Current Focus
 
 Pages
-* About Us
+* Pre-Order Page
 
 Components
-* Founder Biographies
+* Pre-Order Form
 
 ### Testing
 
