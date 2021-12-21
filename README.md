@@ -114,12 +114,12 @@ Note that each stage is repeated three times: development for mobile, tablets an
 Stage X is commenced once all previous stages have been completed or suspended.
 Each stage involves testing.
 
-### Stage 1 [ Done ]
+### Stage 1
 
 Pages
 * Home Page
 * ~~Product Page~~ [ REMOVED ]
-* ~~~Meet The Team~~~ About Us
+* ~~Meet The Team~~ About Us
 * Privacy Policy Page
 
 Components
@@ -214,8 +214,8 @@ Bugs
     * Recreated favicons from Favicon Generator with appropriate links.
 * Backlog
   * Hero page carousel displaced by a few pixels when traversing image gallery
-    * [Normal Screenshot](./assets/media/bugs/favicons/carousel-normal.png)
-    * [Error Screenshot](./assets/media/bugs/favicons/carousel-error.png)
+    * [Normal Screenshot](./assets/media/bugs/carousel/carousel-normal.png)
+    * [Error Screenshot](./assets/media/bugs/carousel/carousel-error.png)
     * Problem is because of inconsistent image aspect ratios.
     * To be fixed during image optimisation. 
 
