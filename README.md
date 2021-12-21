@@ -218,6 +218,10 @@ Bugs
     * [Error Screenshot](./assets/media/bugs/carousel/carousel-error.png)
     * Problem is because of inconsistent image aspect ratios.
     * To be fixed during image optimisation. 
+  * Scroll-to-top feature doesn't visually reach target
+   * [Error Screenshot](./assets/media/bugs/scroll-to-top/scroll-to-top-error.png)
+   * This is due to sticky header feature.
+   * Potential solution is to use `scroll-margin-top` as outlined in [this article](https://getpublii.com/blog/one-line-css-solution-to-prevent-anchor-links-from-scrolling-behind-a-sticky-header.html).
 
 ## Deployment
 
