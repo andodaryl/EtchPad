@@ -127,7 +127,7 @@ Components
 * Footer - Basic
 * Favicon
 
-### Stage 2 [ Current ]
+### Stage 2
 
 Pages
 * 404 Page
@@ -139,16 +139,16 @@ Components
 ### Stage 3
 
 Pages
-* Blog
-* Product History
+* ~~Blog~~ [ REMOVED ]
+* ~~Product History~~ [ REMOVED ]
 
 Components
-* Post List
-* Post Page
-* Timeline Grid
-* Loading Screen
+* ~~Post List~~ [ REMOVED ]
+* ~~Post Page~~ [ REMOVED ]
+* ~~Timeline Grid~~ [ REMOVED ]
+* ~~Loading Screen~~ [ REMOVED ]
 
-### Stage X
+### Stage X [ Current ]
 
 Components
 * Sitemap
@@ -163,9 +163,11 @@ Components
 ### Implemented
 
 Pages
-* Privacy Policy
 * Home
 * About Us
+* Pre-order
+* Privacy Policy
+* 404
 
 Components
 * Header
@@ -175,6 +177,7 @@ Components
 * Carousel
 * Image Cards
 * Founder Biographies
+* Pre-order Form
 
 ### Changes
 
@@ -183,14 +186,18 @@ Components
 3. Meet the team page will now incorporate a biography-style layout to showcase a more personal side of the company story.
 4. Contact page will now be called the Pre-Order page to better match the project purpose.
 5. Photo optimisation will now be mandatory as it largely affects Google Lighthouse score.
+6. Due to project time constraints stage 3 is cancelled to commence stage X.
 
 ### Current Focus
 
 Pages
-* Pre-Order Page
+* N/A
 
 Components
-* Pre-Order Form
+* Optimised photos
+* Accessibility
+* Sitemap
+* Code Restructure
 
 ### Testing
 
@@ -208,24 +215,24 @@ Additional Testing
   * [See screenshot](./assets/testing/responsive.png).
 * User Stories: As a user of this website, I want to...
   * Feel that the website is secure for use without worry of privacy infringement or data loss.
-    * The website is served via https meaning it is secure.
-    * The privacy policy page tells me that the website respects my privacy rights. 
+    (i) The website is served via https meaning it is secure.
+    (ii) The privacy policy page tells me that the website respects my privacy rights. 
   * Easily navigate and interact with features for an enjoyable experience.
-    * The navigation is easily accessible at the top of the screen as I scroll.
-    * It is clear to see what buttons are clickable  and if I have clicked links thanks to appropriate color schemes and text underlining.
+    (i) The navigation is easily accessible at the top of the screen as I scroll.
+    (ii) It is clear to see what buttons are clickable  and if I have clicked links thanks to appropriate color schemes and text underlining.
   * See how the product works, its quality, and when it’s going to be available to help influence reason for purchasing.
-    * The home page clearly described the benefits of the product.
-    * There is a pre-order page to help inform me when the product is available.
+    (i) The home page clearly described the benefits of the product.
+    (ii) There is a pre-order page to help inform me when the product is available.
   * Feel that the business is credible to ensure a positive purchasing experience.
-    * The about us page shows me who is behind this website.
-    * At the footer is the company address and registration number which adds to the legitimacy of the business.
+    (i) The about us page shows me who is behind this website.
+    (ii) At the footer is the company address and registration number which adds to the legitimacy of the business.
   * Be able to contact the business for inquiries and sales support.
-    * The company address available allows me to write the company directly.
-    * There is also an email shown in the footer section.
-    * Additionally, in the pre-order page is a section through which I am invited to provide additional comments for the team to consider.
+    (i) The company address available allows me to write the company directly.
+    (ii) There is also an email shown in the footer section.
+    (iii) Additionally, in the pre-order page is a section through which I am invited to provide additional comments for the team to consider.
   * Know the story behind the product to further influence buying decisions.
-    * The about us page describes the story behind the product.
-    * The homepage shows real people using the product.
+    (i) The about us page describes the story behind the product.
+    (ii) The homepage shows real people using the product.
 * Process
 
 Bugs
@@ -235,10 +242,10 @@ Bugs
     * [Fixed Screenshot](./assets/media/bugs/favicons/favicon-error-fixed.png)
     * Recreated favicons from Favicon Generator with appropriate links.
   * Scroll-to-target visual misalignment
-   * [Error Screenshot](./assets/media/bugs/scroll-to-target/scroll-to-target-error.png)
-   * [Fixed Screenshot](./assets/media/bugs/scroll-to-target/scroll-to-target-fixed.png)
-   * This is due to the sticky header feature.
-   * Fixed using `scroll-margin-top` and `scroll-padding-top` as outlined in [this article](https://getpublii.com/blog/one-line-css-solution-to-prevent-anchor-links-from-scrolling-behind-a-sticky-header.html).
+    * [Error Screenshot](./assets/media/bugs/scroll-to-target/scroll-to-target-error.png)
+    * [Fixed Screenshot](./assets/media/bugs/scroll-to-target/scroll-to-target-fixed.png)
+    * This is due to the sticky header feature.
+    * Fixed using `scroll-margin-top` and `scroll-padding-top` as outlined in [this article](https://getpublii.com/blog/one-line-css-solution-to-prevent-anchor-links-from-scrolling-behind-a-sticky-header.html).
 * Backlog
   * Hero page carousel displaced by a few pixels when traversing image gallery
     * [Normal Screenshot](./assets/media/bugs/carousel/carousel-normal.png)
