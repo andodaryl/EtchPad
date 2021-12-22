@@ -78,6 +78,11 @@ blockquote {
   font-style: italic;
 }
 
+/* carousel caption */
+.carousel-caption {
+  background-color: rgba(240, 237, 232, 0.9);
+}
+
 /* follow button */
 .btn .btn-follow i {
   position: relative; 
