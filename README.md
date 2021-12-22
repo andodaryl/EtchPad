@@ -200,10 +200,30 @@ Validator Testing - each to be updated with post-validation link
 * [Form Validator](https://formdump.codeinstitute.net/)
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 * [Favicon Checker](https://realfavicongenerator.net/favicon_checker)
+ * Favicons are working - [see screenshots](./assets/media/bugs/favicon-error-fixed).
 
 Additional Testing
 * Device / Screen Size
-* User Stories
+* User Stories: As a user of this website, I want to...
+  * Feel that the website is secure for use without worry of privacy infringement or data loss.
+    * The website is served via https meaning it is secure.
+    * The privacy policy page tells me that the website respects my privacy rights. 
+  * Easily navigate and interact with features for an enjoyable experience.
+    * The navigation is easily accessible at the top of the screen as I scroll.
+    * It is clear to see what buttons are clickable  and if I have clicked links thanks to appropriate color schemes and text underlining.
+  * See how the product works, its quality, and when it’s going to be available to help influence reason for purchasing.
+    * The home page clearly described the benefits of the product.
+    * There is a pre-order page to help inform me when the product is available.
+  * Feel that the business is credible to ensure a positive purchasing experience.
+    * The about us page shows me who is behind this website.
+    * At the footer is the company address and registration number which adds to the legitimacy of the business.
+  * Be able to contact the business for inquiries and sales support.
+    * The company address available allows me to write the company directly.
+    * There is also an email shown in the footer section.
+    * Additionally, in the pre-order page is a section through which I am invited to provide additional comments for the team to consider.
+  * Know the story behind the product to further influence buying decisions.
+    * The about us page describes the story behind the product.
+    * The homepage shows real people using the product.
 * Process
 
 Bugs
