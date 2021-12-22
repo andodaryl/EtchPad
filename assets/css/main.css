@@ -1,7 +1,8 @@
 :root {
   /* Variables */
   /* scroll-to-target fix */
-  --header-offset: 2.5em;
+  --header-offset: 2.5rem;
+  --footer-offset: 20rem;
   /* colors */
   --color-primary: #24201E;
   --color-secondary: #D0B7AA;
@@ -17,6 +18,10 @@ html {
 body {
   background-color: var(--color-tertiary);
 } 
+
+#page-content {
+  min-height: calc(100vh - (var(--header-offset) + var(--footer-offset)));
+}
 
 header, 
 footer {
