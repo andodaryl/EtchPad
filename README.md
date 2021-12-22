@@ -208,12 +208,12 @@ Validator Testing - each to be updated with post-validation link
 * [Form Validator](https://formdump.codeinstitute.net/)
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 * [Favicon Checker](https://realfavicongenerator.net/favicon_checker)
-  * Favicons are working - [see screenshots](./assets/media/bugs/favicon-error-fixed).
+  * Favicons are working - [see screenshots](./assets/media/testing/bugs/favicon-error-fixed.png).
 
 Additional Testing
 * Device / Screen Size
   * Website is responsive according to this [Mock Up Generator](http://techsini.com/multi-mockup/)
-  * [See screenshot](./assets/testing/responsive.png).
+  * [See screenshot](./assets/testing/other/responsive.png).
 * User Stories: As a user of this website, I want to...  
   1. Feel that the website is secure for use without worry of privacy infringement or data loss:  
      The website is served via https meaning it is secure.  
