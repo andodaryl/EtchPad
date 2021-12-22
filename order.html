@@ -76,7 +76,7 @@
           <label for="email">Email Address</label>
         </div>
         <!-- Region for Delivery -->
-        <div class="form-floating">
+        <div class="col-12 form-floating">
           <select class="form-select" id="selectRegion" aria-label="Select your region for delivery" name="region" required>
             <option selected disabled hidden>- Select Region -</option>
             <option value="Australia">Australia</option>
@@ -114,7 +114,7 @@
           <label for="selectRegion">Select Delivery Region</label>
         </div>
         <!-- Choice of Color -->
-        <div class="form-floating">
+        <div class="col-12 form-floating">
           <select class="form-select" id="selectColor" name="cover-color" aria-label="Select color for the cover" required>
             <option selected disabled hidden>- Select Color -</option>
             <option value="Sky Blue">Sky Blue</option>
@@ -125,7 +125,7 @@
           <label for="selectColor">Select Cover Color</label>
         </div>
         <!-- Choice of Page Lining -->
-        <div class="form-floating">
+        <div class="col-12 form-floating">
           <select class="form-select" id="selectLining" name="lining-style" aria-label="Select style for page lining" required>
             <option selected disabled hidden>- Select Style -</option>
             <option value="Blank">Blank</option>
@@ -134,6 +134,11 @@
             <option value="Dotted">Dotted</option>
           </select>
           <label for="selectColor">Select Lining Style</label>
+        </div>
+        <!-- Additional Comments -->
+        <div class="col-12 form-floating">
+          <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 15rem"></textarea>
+          <label for="floatingTextarea2">Enter Your Additional Comments</label>
         </div>
         <!-- Privacy Policy Agreement -->
         <div class="col-12">
