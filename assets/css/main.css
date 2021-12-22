@@ -165,12 +165,28 @@ footer [aria-current="page"] {
 
 /* Media Queries */
 
-/* Small Devices */
+/* Up to Medium Devices */
 @media only screen and (max-width: 768px) {
-  /*Links */
+  /* links */
   header [aria-current="page"] {
     display: inline-block;
     border-left: 0.4rem solid var(--color-primary);
     border-right: 0.4rem solid var(--color-primary);
     }
+  /* forms */
+  .card-form {
+    width: 100%;
+  }
+  /* containers */
+  section:not(#carousel) .card .card-body {
+    text-align: left;
+  }
+}
+
+/* Up to Small Devices */
+@media only screen and (max-width: 576px) {
+  /* containers */
+  section:not(#carousel) .card .card-body {
+    text-align: center;
+  }
 }
