@@ -2,6 +2,10 @@
   /* Variables */
   /* scroll-to-target fix */
   --header-offset: 2.5em;
+  /* colors */
+  --color-primary: #24201E;
+  --color-secondary: #D0B7AA;
+  --color-tertiary:  #F0EDE8;
 }
 
 /* Main Elements */
@@ -11,12 +15,12 @@ html {
 }
 
 body {
-  background-color: #F0EDE8;
+  background-color: var(--color-tertiary);
 } 
 
 header, 
 footer {
-  background-color: #D0B7AA;
+  background-color: var(--color-secondary);
 }
 
 header {
@@ -31,7 +35,7 @@ footer {
 /* Containers */
 /* general card */
 .card {
-  background-color: #F0EDE8;
+  background-color: var(--color-tertiary);
   border: none;
 }
 
@@ -63,7 +67,7 @@ footer {
 /* Mini Components */
 /* selection */
 ::selection {
-  color: #24201E;
+  color: var(--color-primary);
   background-color: burlywood;
 }
 
@@ -98,49 +102,49 @@ blockquote {
 /* Colors */
 /* text */
 .text-custom-primary {
-  color: #24201E;
+  color: var(--color-primary);
 }
 
 .text-custom-secondary {
-  color: #D0B7AA;
+  color: var(--color-secondary);
 }
 
 .text-custom-tertiary {
-  color: #F0EDE8;
+  color: var(--color-tertiary);
 }
 
 /* background */
 .bg-custom-primary {
-  background-color: #24201E;
+  background-color: var(--color-primary);
 }
 
 .bg-custom-secondary {
-  background-color: #D0B7AA;
+  background-color: var(--color-secondary);
 }
 
 .bg-custom-tertiary {
-  background-color: #F0EDE8;
+  background-color: var(--color-tertiary);
 }
 
 /* border */
 .border-custom-primary {
-  border-color: #24201E;
+  border-color: var(--color-primary);
 }
 
 .border-custom-secondary {
-  border-color: #D0B7AA;
+  border-color: var(--color-secondary);
 }
 
 .border-custom-tertiary {
-  border-color: #F0EDE8;
+  border-color: var(--color-tertiary);
 }
 
 /* Links */
 /* header */
 header [aria-current="page"] {
   position: relative;
-  color: #D0B7AA !important;
-  background-color:#24201E;
+  color: var(--color-secondary) !important;
+  background-color:var(--color-primary);
 }
 
 /* footer */
@@ -166,7 +170,7 @@ footer [aria-current="page"] {
   /*Links */
   header [aria-current="page"] {
     display: inline-block;
-    border-left: 0.4rem solid #24201E;
-    border-right: 0.4rem solid #24201E;
+    border-left: 0.4rem solid var(--color-primary);
+    border-right: 0.4rem solid var(--color-primary);
     }
 }
