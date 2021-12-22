@@ -55,9 +55,102 @@
       </nav>
     </div>
   </header>
-  <pre>
-
-  </pre>
+  <!-- Pre-order Form -->
+  <main class="container">
+    <h1 class="ms-3 my-4 text-center">EtchPad Pre-order Form</h1>
+    <div class="mb-4 card card-form">
+      <form class="row g-3">
+        <!-- First Name -->
+        <div class="col-md-6 form-floating">
+          <input type="text" class="form-control" id="fname" name="fname" placeholder="Alexa" required>
+          <label for="fname">First Name</label>
+        </div>
+        <!-- Last Name -->
+        <div class="col-md-6 form-floating">
+          <input type="text" class="form-control" id="lname" name="lname" placeholder="Smith" required>
+          <label for="lname">Last Name</label>
+        </div>
+        <!-- Email Address -->
+        <div class="col-12 form-floating">
+          <input type="email" class="form-control" id="email" name="email" placeholder="example@domain.com" required>
+          <label for="email">Email Address</label>
+        </div>
+        <!-- Region for Delivery -->
+        <div class="form-floating">
+          <select class="form-select" id="selectRegion" aria-label="Select your region for delivery" name="region" required>
+            <option selected disabled hidden>- Select Region -</option>
+            <option value="Australia">Australia</option>
+            <option value="Austria">Austria</option>
+            <option value="Belgium">Belgium</option>
+            <option value="Canada">Canada</option>
+            <option value="Colombia">Colombia</option>
+            <option value="Croatia">Croatia</option>
+            <option value="Czech Republic">Czech Republic</option>
+            <option value="Denmark">Denmark</option>
+            <option value="Finland">Finland</option>
+            <option value="France">France</option>
+            <option value="Georgia">Georgia</option>
+            <option value="Germany">Germany</option>
+            <option value="Ireland">Ireland</option>
+            <option value="Israel">Israel</option>
+            <option value="Italy">Italy</option>
+            <option value="Lithuania">Lithuania</option>
+            <option value="Luxembourg">Luxembourg</option>
+            <option value="Mauritius">Mauritius</option>
+            <option value="Netherlands">Netherlands</option>
+            <option value="New Zealand">New Zealand</option>
+            <option value="Nicaragua">Nicaragua</option>
+            <option value="Norway">Norway</option>
+            <option value="Poland">Poland</option>
+            <option value="Slovakia">Slovakia</option>
+            <option value="Slovenia">Slovenia</option>
+            <option value="South Korea">South Korea</option>
+            <option value="Spain">Spain</option>
+            <option value="Sweden">Sweden</option>
+            <option value="Taiwan">Taiwan</option>
+            <option value="United Kingdom">United Kingdom</option>
+            <option value="United States">United States</option>
+          </select>
+          <label for="selectRegion">Select Delivery Region</label>
+        </div>
+        <!-- Choice of Color -->
+        <div class="form-floating">
+          <select class="form-select" id="selectColor" name="cover-color" aria-label="Select color for the cover" required>
+            <option selected disabled hidden>- Select Color -</option>
+            <option value="Sky Blue">Sky Blue</option>
+            <option value="Papaya Whip">Papaya Whip</option>
+            <option value="Neutral Grey">Neutral Grey</option>
+            <option value="Metallic Black">Metallic Black</option>
+          </select>
+          <label for="selectColor">Select Cover Color</label>
+        </div>
+        <!-- Choice of Page Lining -->
+        <div class="form-floating">
+          <select class="form-select" id="selectLining" name="lining-style" aria-label="Select style for page lining" required>
+            <option selected disabled hidden>- Select Style -</option>
+            <option value="Blank">Blank</option>
+            <option value="Lined">Lined</option>
+            <option value="Squared">Squared</option>
+            <option value="Dotted">Dotted</option>
+          </select>
+          <label for="selectColor">Select Lining Style</label>
+        </div>
+        <!-- Privacy Policy Agreement -->
+        <div class="col-12">
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="policy" name="policy-agreement" required>
+            <label class="form-check-label" for="policy">
+              I have read and agree to the <a href="privacy.html">privacy policy</a>.
+            </label>
+          </div>
+        </div>
+        <!-- Submit Button -->
+        <div class="col-12">
+          <button type="submit" class="btn btn-dark text-custom-tertiary text-decoration-none">Submit</button>
+        </div>
+      </form>
+    </div>
+  </main>
   <!-- Footer -->
   <footer class="p-3">
     <div class="container">
