@@ -17,8 +17,8 @@ footer {
   box-shadow: 0 -1px 4px -2px gray;
 }
 
-/* Custom Containers */
-/* general */
+/* Containers */
+/* general card */
 .card {
   background-color: #F0EDE8;
   border: none;
@@ -36,7 +36,13 @@ footer {
   border-radius: 50%;
 } 
 
-/* Micro Elements */
+/* Mini Components */
+/* selection */
+::selection {
+  color: #24201E;
+  background-color: burlywood;
+}
+
 /* logo */
 .logo {
   height: auto;
@@ -48,7 +54,13 @@ blockquote {
   font-style: italic;
 }
 
-/* Custom Colors */
+/* follow button */
+.btn-follow i {
+  position: relative; 
+  bottom: 0.1rem;
+}
+
+/* Colors */
 /* text */
 .text-custom-primary {
   color: #24201E;
@@ -86,19 +98,6 @@ blockquote {
 
 .border-custom-tertiary {
   border-color: #F0EDE8;
-}
-
-/* Custom Buttons */
-/* follow */
-.btn-follow i {
-  position: relative; 
-  bottom: 0.1rem;
-}
-
-/* Selection Highlighting */
-::selection {
-  color: #24201E;
-  background-color: burlywood;
 }
 
 /* Links */
