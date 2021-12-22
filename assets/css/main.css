@@ -79,9 +79,15 @@ blockquote {
 }
 
 /* follow button */
-.btn-follow i {
+.btn .btn-follow i {
   position: relative; 
   bottom: 0.1rem;
+}
+
+/* dark button */
+.btn-dark:hover {
+  background-color: rgba(36, 32, 30, 0.5) !important;
+  color: rgba(36, 32, 30, 1);
 }
 
 /* Colors */
