@@ -216,7 +216,7 @@ Bugs
    * [Error Screenshot](./assets/media/bugs/scroll-to-target/scroll-to-target-error.png)
    * [Fixed Screenshot](./assets/media/bugs/scroll-to-target/scroll-to-target-fixed.png)
    * This is due to the sticky header feature.
-   * Fixed using `scroll-margin-top` as outlined in [this article](https://getpublii.com/blog/one-line-css-solution-to-prevent-anchor-links-from-scrolling-behind-a-sticky-header.html).
+   * Fixed using `scroll-margin-top` and `scroll-padding-top` as outlined in [this article](https://getpublii.com/blog/one-line-css-solution-to-prevent-anchor-links-from-scrolling-behind-a-sticky-header.html).
 * Backlog
   * Hero page carousel displaced by a few pixels when traversing image gallery
     * [Normal Screenshot](./assets/media/bugs/carousel/carousel-normal.png)
