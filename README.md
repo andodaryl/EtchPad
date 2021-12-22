@@ -57,7 +57,7 @@ Color Pallette
   * Primary #24201E
   * Secondary #D0B7AA
   * Tertiary #F0EDE8
-* The text color (Primary) against the background (Secondary) and tertiary colors passed the contrast test for legibility using a calculator by [WebAim](https://webaim.org/resources/contrastchecker/).
+* The text color (Primary) against the background (Secondary) and Tertiary colors passed the contrast test for legibility using a calculator by [WebAim](https://webaim.org/resources/contrastchecker/).
 * [Paletton](https://paletton.com/) was used to create variations of the primary colors above for stylistic purposes.
 
 Typography
@@ -178,6 +178,7 @@ Components
 * Image Cards
 * Founder Biographies
 * Pre-order Form
+* Scroll to top
 
 ### Changes
 
@@ -207,32 +208,32 @@ Validator Testing - each to be updated with post-validation link
 * [Form Validator](https://formdump.codeinstitute.net/)
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 * [Favicon Checker](https://realfavicongenerator.net/favicon_checker)
- * Favicons are working - [see screenshots](./assets/media/bugs/favicon-error-fixed).
+  * Favicons are working - [see screenshots](./assets/media/bugs/favicon-error-fixed).
 
 Additional Testing
 * Device / Screen Size
   * Website is responsive according to this [Mock Up Generator](http://techsini.com/multi-mockup/)
   * [See screenshot](./assets/testing/responsive.png).
-* User Stories: As a user of this website, I want to...
-  * Feel that the website is secure for use without worry of privacy infringement or data loss.
-    (i) The website is served via https meaning it is secure.
-    (ii) The privacy policy page tells me that the website respects my privacy rights. 
-  * Easily navigate and interact with features for an enjoyable experience.
-    (i) The navigation is easily accessible at the top of the screen as I scroll.
-    (ii) It is clear to see what buttons are clickable  and if I have clicked links thanks to appropriate color schemes and text underlining.
-  * See how the product works, its quality, and when it’s going to be available to help influence reason for purchasing.
-    (i) The home page clearly described the benefits of the product.
-    (ii) There is a pre-order page to help inform me when the product is available.
-  * Feel that the business is credible to ensure a positive purchasing experience.
-    (i) The about us page shows me who is behind this website.
-    (ii) At the footer is the company address and registration number which adds to the legitimacy of the business.
-  * Be able to contact the business for inquiries and sales support.
-    (i) The company address available allows me to write the company directly.
-    (ii) There is also an email shown in the footer section.
-    (iii) Additionally, in the pre-order page is a section through which I am invited to provide additional comments for the team to consider.
-  * Know the story behind the product to further influence buying decisions.
-    (i) The about us page describes the story behind the product.
-    (ii) The homepage shows real people using the product.
+* User Stories: As a user of this website, I want to...  
+  1. Feel that the website is secure for use without worry of privacy infringement or data loss:  
+     The website is served via https meaning it is secure.  
+     The privacy policy page tells me that the website respects my privacy rights.  
+  2. Easily navigate and interact with features for an enjoyable experience:  
+     The navigation is easily accessible at the top of the screen as I scroll.  
+     It is clear to see what buttons are clickable  and if I have clicked links thanks to appropriate color schemes and text underlining.  
+  3. See how the product works, its quality, and when it’s going to be available to help influence reason for purchasing:  
+     The home page clearly described the benefits of the product.  
+     There is a pre-order page to help inform me when the product is available.  
+  4. Feel that the business is credible to ensure a positive purchasing experience:  
+     The about us page shows me who is behind this website.  
+     At the footer is the company address and registration number which adds to the legitimacy of the business.  
+     Be able to contact the business for inquiries and sales support.  
+  5. The company address available allows me to write the company directly:  
+     There is also an email shown in the footer section.  
+     Additionally, in the pre-order page is a section through which I am invited to provide additional comments for the team to consider.  
+  6. Know the story behind the product to further influence buying decisions.  
+     The about us page describes the story behind the product.  
+     The homepage shows real people using the product.  
 * Process
 
 Bugs
