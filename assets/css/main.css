@@ -178,7 +178,7 @@ footer [aria-current="page"] {
     width: 100%;
   }
   /* containers */
-  section:not(#carousel) .card .card-body {
+  .card-benefit .card-body {
     text-align: left;
   }
 }
@@ -186,7 +186,7 @@ footer [aria-current="page"] {
 /* Up to Small Devices */
 @media only screen and (max-width: 576px) {
   /* containers */
-  section:not(#carousel) .card .card-body {
+  .card-benefit .card-body {
     text-align: center;
   }
 }
