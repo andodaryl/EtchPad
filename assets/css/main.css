@@ -48,7 +48,7 @@ footer {
 }
 
 .card-about img {
-  border-radius: 50%;
+  clip-path: circle();
 }
 
 /* forms */
