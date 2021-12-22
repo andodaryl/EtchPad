@@ -53,7 +53,7 @@ footer {
 }
 
 .card-about img {
-  clip-path: circle();
+  clip-path: circle(50%);
 }
 
 /* forms */
