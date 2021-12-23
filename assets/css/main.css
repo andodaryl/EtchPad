@@ -4,9 +4,9 @@
   --header-offset: 2.5rem;
   --footer-offset: 20rem;
   /* colors */
-  --color-primary: #24201E;
-  --color-secondary: #D0B7AA;
-  --color-tertiary:  #F0EDE8;
+  --color-primary: #24201e;
+  --color-secondary: #d0b7aa;
+  --color-tertiary: #f0ede8;
 }
 
 /* Main Elements */
@@ -17,14 +17,14 @@ html {
 
 body {
   background-color: var(--color-tertiary);
-} 
+}
 
 #page-content {
   min-height: calc(100vh - (var(--header-offset) + var(--footer-offset)));
   margin-top: -1px;
 }
 
-header, 
+header,
 footer {
   background-color: var(--color-secondary);
 }
@@ -32,7 +32,6 @@ footer {
 header {
   box-shadow: 0 2px 2px -2px gray;
 }
-
 
 footer {
   box-shadow: 0 -1px 4px -2px gray;
@@ -69,7 +68,6 @@ footer {
   margin-left: 0.5rem;
 }
 
-
 /* Mini Components */
 /* selection */
 ::selection {
@@ -95,7 +93,7 @@ blockquote {
 
 /* follow button */
 .btn .btn-follow i {
-  position: relative; 
+  position: relative;
   bottom: 0.1rem;
 }
 
@@ -154,7 +152,7 @@ blockquote {
 header [aria-current="page"] {
   position: relative;
   color: var(--color-secondary) !important;
-  background-color:var(--color-primary);
+  background-color: var(--color-primary);
 }
 
 /* footer */
@@ -179,17 +177,17 @@ footer [aria-current="page"] {
 @media only screen and (max-width: 768px) {
   /* links */
   header [aria-current="page"] {
-    display: inline-block;
-    border-left: 0.4rem solid var(--color-primary);
-    border-right: 0.4rem solid var(--color-primary);
-    }
+      display: inline-block;
+      border-left: 0.4rem solid var(--color-primary);
+      border-right: 0.4rem solid var(--color-primary);
+  }
   /* forms */
   .card-form {
-    width: 100%;
+      width: 100%;
   }
   /* containers */
   .card-benefit .card-body {
-    text-align: left;
+      text-align: left;
   }
 }
 
@@ -197,6 +195,6 @@ footer [aria-current="page"] {
 @media only screen and (max-width: 576px) {
   /* containers */
   .card-benefit .card-body {
-    text-align: center;
+      text-align: center;
   }
 }
