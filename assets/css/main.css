@@ -21,6 +21,7 @@ body {
 
 #page-content {
   min-height: calc(100vh - (var(--header-offset) + var(--footer-offset)));
+  margin-top: -1px;
 }
 
 header, 
