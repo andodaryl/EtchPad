@@ -148,7 +148,7 @@ Components
 * ~~Timeline Grid~~ [ REMOVED ]
 * ~~Loading Screen~~ [ REMOVED ]
 
-### Stage X [ Current ]
+### Stage X
 
 Components
 * Sitemap
@@ -179,6 +179,10 @@ Components
 * Founder Biographies
 * Pre-order Form
 * Scroll to top
+* Optimised photos
+* Accessibility
+* Sitemap
+* Code Restructure
 
 ### Changes
 
@@ -195,21 +199,51 @@ Pages
 * N/A
 
 Components
-* Optimised photos
-* Accessibility
-* Sitemap
-* Code Restructure
+* N/A
 
 ### Testing
 
 Validator Testing - each to be updated with post-validation link
 * [W3C Validator](https://validator.w3.org/nu/)
+  * No issues according to the HTML Validator.
+  * [Home](https://validator.w3.org/nu/?doc=https%3A%2F%2Fandodaryl.github.io%2FEtchPad%2Findex.html)
+  * [About Us](https://validator.w3.org/nu/?doc=https%3A%2F%2Fandodaryl.github.io%2FEtchPad%2Fabout.html)
+  * [Pre-order](https://validator.w3.org/nu/?doc=https%3A%2F%2Fandodaryl.github.io%2FEtchPad%2Forder.html)
+  * [Privacy Policy](https://validator.w3.org/nu/?doc=https%3A%2F%2Fandodaryl.github.io%2FEtchPad%2Fprivacy.html)
+  * [404](https://validator.w3.org/nu/?doc=https%3A%2F%2Fandodaryl.github.io%2FEtchPad%2F404.html)
+  * [Screenshots](./assets/testing/validation/html)
 * [CSS Validator](https://jigsaw.w3.org/css-validator/)
+  * No errors according to the CSS Validator.
+  * Warnings are related to Bootsrap 5 which uses ["CSS browser hacks"](https://getbootstrap.com/docs/5.0/getting-started/browsers-devices/#validators).
+  * [Home](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fandodaryl.github.io%2FEtchPad%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  * [About Us](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fandodaryl.github.io%2FEtchPad%2Fabout.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  * [Pre-order](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fandodaryl.github.io%2FEtchPad%2Forder.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  * [Privacy Policy](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fandodaryl.github.io%2FEtchPad%2Fprivacy.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  * [404](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fandodaryl.github.io%2FEtchPad%2F404.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  * [Screenshots](./assets/testing/validation/css)
 * [Form Validator](https://formdump.codeinstitute.net/)
+  * Correct data is submitted.
+  * [Screenshot](./assets/testing/form/order-form.png)
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse)
+  * Top scores for both desktop and mobile.
+  * [Screenshots](./assets/testing/validation/lighthouse/)
 * [Favicon Checker](https://realfavicongenerator.net/favicon_checker)
-  * Favicons are working - [see screenshots](./assets/media/testing/bugs/favicon-error-fixed.png).
-
+  * Favicons are working.
+  * [Home](https://realfavicongenerator.net/favicon_checker?protocol=https&site=andodaryl.github.io%2FEtchPad%2Findex.html)
+  * [About Us](https://realfavicongenerator.net/favicon_checker?protocol=https&site=andodaryl.github.io%2FEtchPad%2Fabout.html)
+  * [Pre-order](https://realfavicongenerator.net/favicon_checker?protocol=https&site=andodaryl.github.io%2FEtchPad%2Forder.html)
+  * [Privacy Policy](https://realfavicongenerator.net/favicon_checker?protocol=https&site=andodaryl.github.io%2FEtchPad%2Fprivacy.html)
+  * [404](https://realfavicongenerator.net/favicon_checker?protocol=https&site=andodaryl.github.io%2FEtchPad%2F404.html)
+  * [Screenshots](./assets/media/testing/favicons/).
+* [Accessibility Checker](https://wave.webaim.org/)
+  * No errors found.
+  * Warnings refer to mandatory features such as noscript and links to home page or placeholder links (e.g. twitter in about us page).
+  * [Home](https://wave.webaim.org/report#/https://andodaryl.github.io/EtchPad/index.html)
+  * [About Us](https://wave.webaim.org/report#/https://andodaryl.github.io/EtchPad/about.html)
+  * [Pre-order](https://wave.webaim.org/report#/https://andodaryl.github.io/EtchPad/order.html)
+  * [Privacy Policy](https://wave.webaim.org/report#/https://andodaryl.github.io/EtchPad/privacy.html)
+  * [404](https://wave.webaim.org/report#/https://andodaryl.github.io/EtchPad/404.html)
+  * [Screenshots](./assets/testing/validation/accessibility)
 Additional Testing
 * Device / Screen Size
   * Website is responsive according to this [Mock Up Generator](http://techsini.com/multi-mockup/)
@@ -235,6 +269,62 @@ Additional Testing
      The about us page describes the story behind the product.  
      The homepage shows real people using the product.  
 * Process
+  * Navigation
+    * The logo is a link which leads to the homepage.
+    * The navbar displays a hamburger menu in mobile mode.
+    * The header navlink which leads to the current loaded page is highlighted.
+    * The footer navlink which leads to the current loaded page is underlined.
+    * Hovering over a navlink underlines it.
+    * Social media icons in the footer are
+      * situated close together in desktop/tablet mode.
+      * spread evenly in mobile mode.
+      * opens in a new tab to the relevant social media platform.
+  * Home
+    * Shows product features and social proof.
+    * Clicking the logo and the home nav link leads to the home page.
+    * The hero page changes its aspect ratio in mobile mode.
+    * The learn more button
+      * leads to the first benefits-section.
+      * lightens its background color when hovered.
+    * The benefits-section image and text arranges into columns in mobile/tablet mode.
+    * The text is centered in mobile mode.
+    * The carousel displays notes from users which disappears in mobile mode.
+    * Carousel images automatically change or manually changed using buttons in the component.
+    * Scroll to top button
+      * leads to the top of the screen.
+      * lightens its background color when hovered.
+  * About
+    * Shows co-founder biographies and a brief company story.
+    * Images are displayed in a circle.
+    * Social media buttons open a new tab to Twitter.
+    * Scroll to top button lead to the top of the screen.
+    * Scroll to top button
+      * leads to the top of the screen.
+      * lightens its background color when hovered.
+  * Pre-order
+    * Shows a form for pre-ordering and optional commentary.
+    * Labels look like placeholders and automatically move away while entering values.
+    * Identity, contact, delivery and product info are mandatory.
+    * An extendible text section is available for further comments.
+    * A privacy agreement checkbox is mandatory.
+    * The privacy policy link opens in the current tab.
+    * Values entered are saved despite moving away from the page.
+    * Submitting with empty mandatory values displays a warning.
+    * Submit button
+      * lightens its background color when hovered.
+      * submits values to a form validator.
+  * Privacy-policy
+    * Shows privacy policy terms.
+    * Website link opens to home page in a new tab.
+    * Scroll to top button
+      * leads to the top of the screen.
+      * lightens its background color when hovered.
+  * Sitemap
+    * Displays sitemap details without styling as intented.
+  * 404
+    * Shows page not found notice and further details.
+    * Entering 404.html or a non-existent sub-directory leads to this page.
+    * Despite minimal content, the footer remains at the bottom of the page.
 
 Bugs
 * Fixed
@@ -353,6 +443,7 @@ Testing
 * [CSS Validator](https://jigsaw.w3.org/css-validator/)
 * [Code Institute - Form Dump](https://formdump.codeinstitute.net/)
 * [Favicon Checker](https://realfavicongenerator.net/favicon_checker)
+* [Accessibility Checker](https://wave.webaim.org/)
 
 Content Generators / Sources
 * ...
