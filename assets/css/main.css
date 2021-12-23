@@ -119,6 +119,10 @@ blockquote {
   color: var(--color-tertiary);
 }
 
+.text-custom-muted {
+  color: rgba(36, 32, 30, 0.8) !important;
+}
+
 /* background */
 .bg-custom-primary {
   background-color: var(--color-primary);
