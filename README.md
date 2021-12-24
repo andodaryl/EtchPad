@@ -98,6 +98,13 @@ Content
 * The first letter of the logo was converted to a favicon using a [Favicon Generator](https://realfavicongenerator.net/).
 * Content was curated from open source material to convey minimalism, premium quality especially through lifestyle scenes.
 
+Copywriting and Imagery
+* The homepage content is heavily centered on selling the benefits of the product.
+* A combination of vivid imagery and active descriptions helps portray a positive experience.
+* The about us page shows a personal side of the company to increase customer trust.
+* The language used in the pre-order page is straightforward and simple, so that users can promptly complete the form without distraction.
+* This approach helps the company achieve its business objectives.
+
 Navigation
 * The website design is minimalistic for ease of navigation and satisfactory interaction with website features.
 * Navbars switch from standard in larger screens to hamburger menus in smaller screens for ease of access.
