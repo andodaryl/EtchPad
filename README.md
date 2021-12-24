@@ -92,14 +92,17 @@ Logo
 * It is capitalised in thin san-serif font to balance the extravagance of the logo.
 
 Content
-* ... 
-* ...
-* ...
+* Photos related to writing, notebooks and drawing were derived from [Pexels](https://www.pexels.com/).
+* Icons were derived from [Bootstrap V Icons](https://blog.getbootstrap.com/2021/01/07/bootstrap-icons-1-3-0/).
+* The first letter of the logo was converted to a favicon using a [Favicon Generator]9https://realfavicongenerator.net/.
+* Content was curated from open source material to convey minimalism, premium quality especially through lifestyle scenes.
 
 Navigation
-* ... 
-* ...
-* ...
+* The website design is minimalistic for ease of navigation and satisfactory interaction with website features.
+* Navbars switch from standard in larger screens to hamburger menus in smaller screens for ease of access.
+* The header and footer are both sticky, meaning they remain in relative position and become fixed in the viewport when a scroll position value is reached.
+* For accessibility, links are underlined when hovered, the background color of page buttons lighten when hoverd, and links of the current page are underlined in the footer or highlighted in the header.
+* Scroll to top buttons are available to quickly navigate to the top of the page from the footer area.
 
 ## Project Development Stages
 
@@ -246,8 +249,8 @@ Validator Testing - each to be updated with post-validation link
   * [Screenshots](./assets/testing/validation/accessibility)
 Additional Testing
 * Device / Screen Size
-  * Website is responsive according to this [Mock Up Generator](http://techsini.com/multi-mockup/)
-  * [See screenshot](./assets/testing/other/responsive.png).
+  * Website is visually responsive on mobile, tablet and desktop according to this [Mock Up Generator](http://techsini.com/multi-mockup/)
+  * [Screenshots](./assets/testing/responsive/)
 * User Stories: As a user of this website, I want to...  
   1. Feel that the website is secure for use without worry of privacy infringement or data loss:  
      The website is served via https meaning it is secure.  
