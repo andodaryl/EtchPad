@@ -36,9 +36,10 @@ As a user of this website, I want to...
 * Know the story behind the product to further influence buying decisions.
 
 ### Wireframes
-...
-...
-...
+[Figma](https://www.figma.com/) was chosen for the wireframing environment as it offers powerful features for free.  
+A [Low Fidelity Wireframe Template](https://www.figma.com/community/file/829375674987486138) by Annick Huber was used to create the wireframes within Figma.  
+Screenshots for desktop/large tablet wireframes available [here](./assets/testing/wireframes/desktop/).  
+Screenshots for mobile/small tablet wireframes available [here](./assets/testing/wireframes/mobile/).
 
 ### Design
 Device Dimensions
@@ -521,6 +522,7 @@ Content Generators / Sources
 * [Real Favicon Generator](https://realfavicongenerator.net/)
 * [Code Institute Gitpod Template](https://github.com/Code-Institute-Org/gitpod-full-template)
 * [Code Formatter](https://webformatter.com/)
+* [Figma Low Fidelity Wireframe Template](https://www.figma.com/community/file/829375674987486138)
 
 Frameworks / Libraries
 * [Boostrap V](https://getbootstrap.com/)
