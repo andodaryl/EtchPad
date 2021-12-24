@@ -127,6 +127,8 @@ Note that each stage is repeated three times: development for mobile, tablets an
 Stage X is commenced once all previous stages have been completed or suspended.
 Each stage involves testing.
 
+[ PROJECT COMPLETED ]
+
 ### Stage 1
 
 Pages
