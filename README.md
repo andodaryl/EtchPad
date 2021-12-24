@@ -504,6 +504,7 @@ Tools used in development:
 Development Environment
 * [GitPod](https://www.gitpod.io/)
 * [Figma](https://www.figma.com/)
+* [Adobe Photoshop](https://www.adobe.com/ie/products/photoshop.html)
 
 Testing
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse)
