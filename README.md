@@ -527,12 +527,11 @@ Content Generators / Sources
 * [Real Favicon Generator](https://realfavicongenerator.net/)
 * [Code Institute Gitpod Template](https://github.com/Code-Institute-Org/gitpod-full-template)
 * [Code Formatter](https://webformatter.com/)
-* [Figma Low Fidelity Wireframe Template](https://www.figma.com/community/file/829375674987486138)
 
 Frameworks / Libraries
 * [Boostrap V](https://getbootstrap.com/)
 * [Boostrap V Icons](https://blog.getbootstrap.com/2021/01/07/bootstrap-icons-1-3-0/)
-* [Figma Low Fidelity Wireframe Kit](https://www.figma.com/community/file/829375674987486138)
+* [Figma Low Fidelity Wireframe Template](https://www.figma.com/community/file/829375674987486138)
 
 Languages
 * [HTML5](https://www.w3schools.com/html/default.asp)
