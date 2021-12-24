@@ -195,6 +195,7 @@ Components
 4. Contact page will now be called the Pre-Order page to better match the project purpose.
 5. Photo optimisation will now be mandatory as it largely affects Google Lighthouse score.
 6. Due to project time constraints stage 3 is cancelled to commence stage X.
+7. About us biography images are made circular for better aesthetic.
 
 ### Current Focus
 
