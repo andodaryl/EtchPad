@@ -94,7 +94,7 @@ Logo
 Content
 * Photos related to writing, notebooks and drawing were derived from [Pexels](https://www.pexels.com/).
 * Icons were derived from [Bootstrap V Icons](https://blog.getbootstrap.com/2021/01/07/bootstrap-icons-1-3-0/).
-* The first letter of the logo was converted to a favicon using a [Favicon Generator]9https://realfavicongenerator.net/.
+* The first letter of the logo was converted to a favicon using a [Favicon Generator](https://realfavicongenerator.net/).
 * Content was curated from open source material to convey minimalism, premium quality especially through lifestyle scenes.
 
 Navigation
@@ -226,7 +226,7 @@ Validator Testing - each to be updated with post-validation link
   * [Screenshots](./assets/testing/validation/css)
 * [Form Validator](https://formdump.codeinstitute.net/)
   * Correct data is submitted.
-  * [Screenshot](./assets/testing/form/order-form.png)
+  * [Screenshot](./assets/testing/validation/form/order-form.png)
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse)
   * Top scores for both desktop and mobile.
   * [Screenshots](./assets/testing/validation/lighthouse/)
@@ -237,7 +237,7 @@ Validator Testing - each to be updated with post-validation link
   * [Pre-order](https://realfavicongenerator.net/favicon_checker?protocol=https&site=andodaryl.github.io%2FEtchPad%2Forder.html)
   * [Privacy Policy](https://realfavicongenerator.net/favicon_checker?protocol=https&site=andodaryl.github.io%2FEtchPad%2Fprivacy.html)
   * [404](https://realfavicongenerator.net/favicon_checker?protocol=https&site=andodaryl.github.io%2FEtchPad%2F404.html)
-  * [Screenshots](./assets/media/testing/favicons/).
+  * [Screenshots](./assets/testing/validation/favicons/)
 * [Accessibility Checker](https://wave.webaim.org/)
   * No errors found.
   * Warnings refer to mandatory features such as noscript and links to home page or placeholder links (e.g. twitter in about us page).
@@ -332,17 +332,17 @@ Additional Testing
 Bugs
 * Fixed
   * Missing favicons according to Favicon Checker
-    * [Error Screenshot](./assets/media/bugs/favicons/favicon-error.png)
-    * [Fixed Screenshot](./assets/media/bugs/favicons/favicon-error-fixed.png)
+    * [Error Screenshot](./assets/testing/bugs/favicons/favicon-error.png)
+    * [Fixed Screenshot](./assets/testing/bugs/favicons/favicon-error-fixed.png)
     * Recreated favicons from Favicon Generator with appropriate links.
   * Scroll-to-target visual misalignment
-    * [Error Screenshot](./assets/media/bugs/scroll-to-target/scroll-to-target-error.png)
-    * [Fixed Screenshot](./assets/media/bugs/scroll-to-target/scroll-to-target-fixed.png)
+    * [Error Screenshot](./assets/testing/bugs/scroll-to-target/scroll-to-target-error.png)
+    * [Fixed Screenshot](./assets/testing/bugs/scroll-to-target/scroll-to-target-fixed.png)
     * This is due to the sticky header feature.
     * Fixed using `scroll-margin-top` and `scroll-padding-top` as outlined in [this article](https://getpublii.com/blog/one-line-css-solution-to-prevent-anchor-links-from-scrolling-behind-a-sticky-header.html).
   * Hero page carousel displaced by a few pixels when traversing image gallery
-    * [Normal Screenshot](./assets/media/bugs/carousel/carousel-normal.png)
-    * [Error Screenshot](./assets/media/bugs/carousel/carousel-error.png)
+    * [Normal Screenshot](./assets/testing/bugs/carousel/carousel-normal.png)
+    * [Error Screenshot](./assets/testing/bugs/carousel/carousel-error.png)
     * Problem is because of inconsistent image aspect ratios.
     * Fixed through image optimisation.
 * Backlog
@@ -393,11 +393,6 @@ Tutorials, resources used are as follows:
 ### Media
 
 Images
-* ...
-* ...
-* ...
-
-Videos
 * ...
 * ...
 * ...
