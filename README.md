@@ -1,5 +1,5 @@
 # EtchPad by Etch
-![EtchPad Homepage](./assets/testing/responsive/showcase-responsive.png "EtchPad Homepage")
+![EtchPad Homepage](./assets/testing/showcase/home-showcase.png "EtchPad Homepage")
 
 ## Disclaimer
 
@@ -168,25 +168,54 @@ Components
 
 Pages
 * Home
+  * Shows product benefits and social proof.
+  * [Screenshot](./assets/testing/responsive/home-responsive.png)
 * About Us
+  * Describes company story and founders.
+  * [Screenshot](./assets/testing/responsive/about-responsive.png)
 * Pre-order
+  * Allows user to submit pre-order details.
+  * [Screenshot](./assets/testing/responsive/order-responsive.png)
 * Privacy Policy
+  * Describes terms of privacy policy.
+  * [Screenshot](./assets/testing/responsive/privacy-responsive.png)
 * 404
+  * Notify user of page navigation error.
+  * [Screenshot](./assets/testing/responsive/404-responsive.png)
 
 Components
-* Header
-* Navbar
+* Screenshots available [here](./assets/testing/showcase/)
+* Header and Navbar
+  * Converts to hamburger menu for small devices.
+  * Highlights current page and underlines hovered link.
 * Footer
+  * 3 columns in normal mode and 1 column in mobile mode.
+  * Current page and hoverd link are underlined.
+  * Social media icons spread evenly in small devices and clustered together in others.
+  * Company details are displayed.
 * Favicons
+  * Adds to the brand awareness.
 * Carousel
+  * Slideshow of image for social proof.
+  * Subject description hidden on mobile and displayed in others.
+  * Navigation controls available.
 * Image Cards
+  * Showcase benefit through images and copy.
+  * Arranged in columns on mobile devices.
 * Founder Biographies
+  * Provide a familiar face to the company.
+  * Personal descriptions and profiles helps increase resonance with customers.
 * Pre-order Form
+  * Primary purpose of website.
+  * Allows for collection of emails, product and delivery requirements, and further comments from customers.
 * Scroll to top
+  * For ease of navigation.
 * Optimised photos
+  * Improves page responsiveness and load time.
 * Accessibility
+  * Allows visually-impaired users to benefit from the website.
 * Sitemap
-* Code Restructure
+  * For search engine optimisation.
 
 ### Changes
 
@@ -411,7 +440,7 @@ Images
     * Carousel 6 by [Pavel D.](https://www.pexels.com/@pavel-danilyuk).
   * About
     * Executive 1 by [Sora S.](https://www.pexels.com/@sora-shimazaki).
-    * Executive 2 is a combination of images by [Sora S.](https://www.pexels.com/@sora-shimazaki) and [Laura T.](https://www.pexels.com/@laura-tancredi).
+    * Executive 2 is a combination of images by [Sora S.](https://www.pexels.com/@sora-shimazaki) and [Laura T](https://www.pexels.com/@laura-tancredi).
 
 ### Content
 
