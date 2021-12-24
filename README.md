@@ -1,4 +1,5 @@
 # EtchPad by Etch
+![EtchPad Homepage](./assets/testing/responsive/showcase-responsive.png "EtchPad Homepage")
 
 ## Disclaimer
 
