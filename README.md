@@ -245,7 +245,7 @@ Components
 
 ### Testing
 
-Validator Testing - each to be updated with post-validation link
+Validator Testing
 * [W3C Validator](https://validator.w3.org/nu/)
   * No issues according to the HTML Validator.
   * [Home](https://validator.w3.org/nu/?doc=https%3A%2F%2Fandodaryl.github.io%2FEtchPad%2Findex.html)
@@ -285,7 +285,8 @@ Validator Testing - each to be updated with post-validation link
   * [Pre-order](https://wave.webaim.org/report#/https://andodaryl.github.io/EtchPad/order.html)
   * [Privacy Policy](https://wave.webaim.org/report#/https://andodaryl.github.io/EtchPad/privacy.html)
   * [404](https://wave.webaim.org/report#/https://andodaryl.github.io/EtchPad/404.html)
-  * [Screenshots](./assets/testing/validation/accessibility)
+  * [Screenshots](./assets/testing/validation/accessibility)  
+
 Additional Testing
 * Device / Screen Size
   * Website is visually responsive on mobile, tablet and desktop according to this [Mock Up Generator](http://techsini.com/multi-mockup/)
