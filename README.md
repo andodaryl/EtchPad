@@ -452,7 +452,7 @@ Images
     * Carousel 6 by [Pavel D.](https://www.pexels.com/@pavel-danilyuk).
   * About
     * Executive 1 by [Sora S.](https://www.pexels.com/@sora-shimazaki).
-    * Executive 2 is a combination of images by [Sora S.](https://www.pexels.com/@sora-shimazaki) and [Laura T](https://www.pexels.com/@laura-tancredi).
+    * Executive 2 is a combination of images by [Sora S.](https://www.pexels.com/@sora-shimazaki) and [Laura T.](https://www.pexels.com/@laura-tancredi).
 
 ### Content
 
@@ -471,7 +471,7 @@ Copy
   * [Meet The Team Examples](https://amasty.com/blog/30-best-meet-the-team-pages-examples-and-trends/)
 
 Competitor Research
-* Observing competitors helped position the market positioning of this retail website.
+* Observing competitors helped determine the market positioning of this retail website.
 * [Notebook Therapy](https://notebooktherapy.com/)
 * [The Journal Shop](https://www.thejournalshop.com/)
 
@@ -484,7 +484,7 @@ Various online tutorial resources were implemented in the creation of this site:
 
 Youtube
 * [Figma Tutorial](https://www.youtube.com/watch?v=RYDiDpW2VkM&t=7s)
-* The header was inspired from this [Bootsrap V Navbar Tutorial](https://www.youtube.com/watch?v=akXfF066MY0)  
+* The header was inspired from this [Bootstrap V Navbar Tutorial](https://www.youtube.com/watch?v=akXfF066MY0)  
 
 Articles
 * [HTML CSS Best Practice](https://learn.shayhowe.com/html-css/writing-your-best-code/)
