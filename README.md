@@ -98,6 +98,7 @@ Content
 * Icons were derived from [Bootstrap V Icons](https://blog.getbootstrap.com/2021/01/07/bootstrap-icons-1-3-0/).
 * The first letter of the logo was converted to a favicon using a [Favicon Generator](https://realfavicongenerator.net/).
 * Content was curated from open source material to convey minimalism, premium quality especially through lifestyle scenes.
+* Privacy policy was created using a [privacy policy generator](https://www.privacypolicygenerator.info/) to further convey legitimacy.
 
 Copywriting and Imagery
 * The homepage content is heavily centered on selling the benefits of the product.
@@ -256,7 +257,7 @@ Validator Testing
   * [Screenshots](./assets/testing/validation/html)
 * [CSS Validator](https://jigsaw.w3.org/css-validator/)
   * No errors according to the CSS Validator.
-  * Warnings are related to Bootsrap 5 which uses ["CSS browser hacks"](https://getbootstrap.com/docs/5.0/getting-started/browsers-devices/#validators).
+  * Warnings are related to Bootstrap 5 which uses ["CSS browser hacks"](https://getbootstrap.com/docs/5.0/getting-started/browsers-devices/#validators).
   * [Home](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fandodaryl.github.io%2FEtchPad%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
   * [About Us](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fandodaryl.github.io%2FEtchPad%2Fabout.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
   * [Pre-order](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fandodaryl.github.io%2FEtchPad%2Forder.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
@@ -409,7 +410,7 @@ According to [official Github documentation](https://docs.github.com/en/get-star
 
 ## Cloning Forked Repo via HTTPS
 
-Additionally, you can download a local copy of the forked repo using the folowing steps:
+Additionally, you can download a local copy of the forked repo using the following steps:
 1. After logging in to Github, navigate to the desired forked repo.
 2. Select the "Code" button.
 3. Copy the URL link below "Clone with HTTPS".
