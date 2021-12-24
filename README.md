@@ -395,43 +395,73 @@ Tutorials, resources used are as follows:
 ### Media
 
 Images
-* ...
-* ...
-* ...
+* All images used were edited with [Adobe Photoshop](https://www.adobe.com/ie/products/photoshop.html).
+* Original sources are as follows:
+  * Home
+    * Hero by [Arina K.](https://www.pexels.com/@arina-krasnikova)
+    * Benefits A by [Cottonbro](https://www.pexels.com/@cottonbro)
+    * Benefits B by [Bich T.](https://www.pexels.com/@thngocbich)
+    * Benefits C is a combination of images by [Cottonbro](https://www.pexels.com/@cottonbro), [Porapak A.](https://www.pexels.com/@nurseryart), [Monstera](https://www.pexels.com/@gabby-k), [Miguel P.](https://www.pexels.com/@padrinan), and [Madison I.](https://www.pexels.com/@mdsnmdsnmdsn).
+    * Benefits D by [Polina K.](https://www.pexels.com/@polina-kovaleva).
+    * Carousel 1 by [Pavel D.](https://www.pexels.com/@pavel-danilyuk).
+    * Carousel 2 by [Mikhail N.](https://www.pexels.com/@mikhail-nilov).
+    * Carousel 3 by [Katerina H.](https://www.pexels.com/@katerina-holmes).
+    * Carousel 4 by [Liza S.](https://www.pexels.com/@liza-summer).
+    * Carousel 5 by [Vlada K.](https://www.pexels.com/@vlada-karpovich).
+    * Carousel 6 by [Pavel D.](https://www.pexels.com/@pavel-danilyuk).
+  * About
+    * Executive 1 by [Sora S.](https://www.pexels.com/@sora-shimazaki).
+    * Executive 2 is a combination of images by [Sora S.](https://www.pexels.com/@sora-shimazaki) and [Laura T.](https://www.pexels.com/@laura-tancredi).
 
 ### Content
 
 Copy
-* ...
-* ...
-* ...
+* Product copy was inspired by the folowing resources:
+  * [What to Look for in a Notebook](https://www.jennibick.com/blogs/news/123062723-what-to-consider-when-choosing-a-paper-notebook)
+  * [Competitor's Blog](https://www.thejournalshop.com/thejournal/how-to-choose-the-perfect-notebook/)
+  * [Acid Free vs Archival Paper](https://www.strathmoreartist.com/faq-full/what-is-the-difference-between-acid-free-archival.html)
+  * [Types of Drawing Paper](https://verbnow.com/types-of-drawing-paper/)
+  * [Types of Drawing Paper - Youtube](https://www.youtube.com/watch?v=uHPIYMhbmGc)
+  * [Paper for Drawing 1](https://www.artistsnetwork.com/art-mediums/drawing-what-kind-of-paper-should-you-use/)
+  * [Paper for Drawing 2](https://www.strathmoreartist.com/blog-reader/what-paper-should-i-use-for-my-art.html)
+  * [Paper for Art](https://www.strathmoreartist.com/blog-reader/what-paper-should-i-use-for-my-art.html)
 
-Design
-* ...
-* ...
-* ...
+* The about us page was inspired by this article:
+  * [Meet The Team Examples](https://amasty.com/blog/30-best-meet-the-team-pages-examples-and-trends/)
 
 Competitor Research
-* ...
-* ...
-* ...
+* Observing competitors helped position the market positioning of this retail website.
+* [Notebook Therapy](https://notebooktherapy.com/)
+* [The Journal Shop](https://www.thejournalshop.com/)
 
 Content Tools / Sources
 
 _See technologies section for development environment and content generators / sources._
 
 ### Tutorials
+Various online tutorial resources were implemented in the creation of this site:  
+
 Youtube
-* ...
-* ...
-* ...
+* [Figma Tutorial](https://www.youtube.com/watch?v=RYDiDpW2VkM&t=7s)
+* The header was inspired from this [Bootsrap V Navbar Tutorial](https://www.youtube.com/watch?v=akXfF066MY0)  
 
 Articles
-* ...
-* ...
-* ...
+* [HTML CSS Best Practice](https://learn.shayhowe.com/html-css/writing-your-best-code/)
+* [HTML CSS Best Practice 2](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
+* [Git and Github Basics](https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english)
+* [Writing Git Commits](https://cbea.ms/git-commit/)
+* [Deploy to Github Pages](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
+* [CLI Basics](https://github.com/jlevy/the-art-of-command-line#readme)
+* [Markdown Basics](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [How to Write a README](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
+* [Writing User Stories](https://www.mountaingoatsoftware.com/agile/user-stories)
+* [Bootrap V Basics](https://www.w3schools.com/bootstrap5/)
+* [CSS Grid](https://www.w3schools.com/css/css_grid.asp)
+* [CSS Grid 2](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ### Technologies
+
+Tools used in development:
 
 Development Environment
 * [GitPod](https://www.gitpod.io/)
@@ -447,14 +477,19 @@ Testing
 * [Accessibility Checker](https://wave.webaim.org/)
 
 Content Generators / Sources
-* ...
-* ...
-* ...
+* [Sitemap Generator](https://www.xml-sitemaps.com/)
+* [Privacy Policy Generator](https://www.privacypolicygenerator.info/)
+* [Image Palette Generator](https://palettegenerator.com/)
+* [Palette Generator](https://paletton.com/)
+* [Logo Maker](https://looka.com/logo-maker/)
+* [Real Favicon Generator](https://realfavicongenerator.net/)
+* [Code Institute Gitpod Template](https://github.com/Code-Institute-Org/gitpod-full-template)
+* [Code Formatter](https://webformatter.com/)
 
 Frameworks / Libraries
-* ...
-* ...
-* ...
+* [Boostrap V](https://getbootstrap.com/)
+* [Boostrap V Icons](https://blog.getbootstrap.com/2021/01/07/bootstrap-icons-1-3-0/)
+* [Figma Low Fidelity Wireframe Kit](https://www.figma.com/community/file/829375674987486138)
 
 Languages
 * [HTML5](https://www.w3schools.com/html/default.asp)
